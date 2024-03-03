@@ -65,11 +65,11 @@
 • Engineered a real-time messaging application using React for the frontend and Node.js/Express for the backend, showcasing proficiency in full-stack development.<br>
 • Implemented WebSocket technology to enable seamless communication between users, enhancing user interactivity.<br><br>
 
-4. Personalized Portfolio:<br>
+4. Personalized Portfolio<br>
 • Designed and deployed a personal portfolio website on GitHub pages using modern web technologies.<br>
 • Leveraged JavaScript with React, Tailwind CSS, integrated Three.js for 3D graphics, utilized react-three.<br><br>
 
-5. <a href="YOhttps://ydt-simple-authentication.vercel.app/">NexAuth</a>:<br>
+5. <a href="https://ydt-simple-authentication.vercel.app/">NexAuth</a><br>
 • Developed a custom authentication app using Next.js.<br>
 • Implemented user authentication features such as login and registration.<br>
 • Utilized MongoDB as the database to store user information securely.</h3>
