@@ -59,3 +59,9 @@
 <img src="https://raw.githubusercontent.com/ydt-yash-1738/ydt-yash-1738/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ydt-yash-1738/count.svg?"  />
+</div>
+
+###
