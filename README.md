@@ -56,7 +56,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ydt-yash-1738/ydt-yash-1738/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
