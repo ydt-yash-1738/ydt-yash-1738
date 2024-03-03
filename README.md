@@ -65,7 +65,7 @@
 • Engineered a real-time messaging application using React for the frontend and Node.js/Express for the backend, showcasing proficiency in full-stack development.<br>
 • Implemented WebSocket technology to enable seamless communication between users, enhancing user interactivity.<br><br>
 
-4. Personalized Portfolio<br>
+4. <a href="https://ydt-yash-1738.github.io/Portfolio/">Portfolio</a><br>
 • Designed and deployed a personal portfolio website on GitHub pages using modern web technologies.<br>
 • Leveraged JavaScript with React, Tailwind CSS, integrated Three.js for 3D graphics, utilized react-three.<br><br>
 
