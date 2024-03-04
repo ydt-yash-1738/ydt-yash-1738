@@ -52,7 +52,7 @@
 
 ###
 
-<h3>Here are some interesting projects of mine:<br><br>
+  <h3>Here are some interesting projects of mine:<br><br>
   
 1. <a href="https://file-sharing-ydt.vercel.app/">FileXchange</a><br>
 • Developed a file sharing application using the MERN (MongoDB, Express, React, Node.js) stack, demonstrating proficiency in full-stack development.<br>
