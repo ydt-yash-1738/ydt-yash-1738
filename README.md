@@ -73,11 +73,11 @@
 5. <a href="https://ydt-simple-authentication.vercel.app/">NexAuth</a><br>
 • Developed a custom authentication app using Next.js.<br>
 • Implemented user authentication features such as login and registration.<br>
-• Utilized MongoDB as the database to store user information securely.</h3>
+• Utilized MongoDB as the database to store user information securely.
 
 6. <a href="https://techplement-ydt.vercel.app/">Quote Generator</a><br>
-• Developed a web application to deliver daily quotes for inspiration.
-• Implemented features leveraging external API for generating random quotes instantly and enabling search functionality by tags or keywords.
+• Developed a web application to deliver daily quotes for inspiration.<br>
+• Implemented features leveraging external API for generating random quotes instantly and enabling search functionality by tags or keywords.</h3>
 
 
 ###
