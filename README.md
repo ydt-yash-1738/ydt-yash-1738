@@ -75,6 +75,10 @@
 • Implemented user authentication features such as login and registration.<br>
 • Utilized MongoDB as the database to store user information securely.</h3>
 
+6. <a href="https://techplement-ydt.vercel.app/">Quote Generator</a><br>
+• Developed a web application to deliver daily quotes for inspiration.
+• Implemented features leveraging external API for generating random quotes instantly and enabling search functionality by tags or keywords.
+
 
 ###
 
