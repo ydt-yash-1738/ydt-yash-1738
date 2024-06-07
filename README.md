@@ -62,20 +62,16 @@
 • Engineered a video calling application utilizing React for the frontend and Node.js/Express for the backend.<br>
 • Leveraged WebRTC technology to enable seamless video calls, high-quality communication experiences for users.<br><br>
 
-3. Express-Chat: Real Time Communication Platform<br>
-• Engineered a real-time messaging application using React for the frontend and Node.js/Express for the backend, showcasing proficiency in full-stack development.<br>
-• Implemented WebSocket technology to enable seamless communication between users, enhancing user interactivity.<br><br>
-
-4. <a href="https://ydt-yash-1738.github.io/Portfolio/">Portfolio</a><br>
+3. <a href="https://ydt-yash-1738.github.io/Portfolio/">Portfolio</a><br>
 • Designed and deployed a personal portfolio website on GitHub pages using modern web technologies.<br>
 • Leveraged JavaScript with React, Tailwind CSS, integrated Three.js for 3D graphics, utilized react-three.<br><br>
 
-5. <a href="https://ydt-simple-authentication.vercel.app/">NexAuth</a><br>
+4. <a href="https://ydt-simple-authentication.vercel.app/">NexAuth</a><br>
 • Developed a custom authentication app using Next.js.<br>
 • Implemented user authentication features such as login and registration.<br>
 • Utilized MongoDB as the database to store user information securely.
 
-6. <a href="https://techplement-ydt.vercel.app/">Quote Generator</a><br>
+5. <a href="https://techplement-ydt.vercel.app/">Quote Generator</a><br>
 • Developed a web application to deliver daily quotes for inspiration.<br>
 • Implemented features leveraging external API for generating random quotes instantly and enabling search functionality by tags or keywords.</h3>
 
